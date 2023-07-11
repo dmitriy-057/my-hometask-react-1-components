@@ -1,0 +1,29 @@
+.transactionHistory {
+    min-width: 600px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(50, 149, 189);
+    padding: 10px;
+}
+.head {
+    font-weight: 600;
+    font-size: 24px;
+    color: black;
+}
+
+.tr {
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #00518043;
+    color: rgba(8, 8, 8, 0.861);
+}
+.tr:nth-child(2n) {
+    background-color: #fff;
+    color: #005180dd;
+}
+
+
+
+
