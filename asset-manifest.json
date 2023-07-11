@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-hometask-react-1-components/static/css/main.aafd8323.css",
-    "main.js": "/my-hometask-react-1-components/static/js/main.6a01fa2e.js",
+    "main.js": "/my-hometask-react-1-components/static/js/main.600bb4e2.js",
     "index.html": "/my-hometask-react-1-components/index.html",
     "main.aafd8323.css.map": "/my-hometask-react-1-components/static/css/main.aafd8323.css.map",
-    "main.6a01fa2e.js.map": "/my-hometask-react-1-components/static/js/main.6a01fa2e.js.map"
+    "main.600bb4e2.js.map": "/my-hometask-react-1-components/static/js/main.600bb4e2.js.map"
   },
   "entrypoints": [
     "static/css/main.aafd8323.css",
-    "static/js/main.6a01fa2e.js"
+    "static/js/main.600bb4e2.js"
   ]
 }
